@@ -1,0 +1,89 @@
+div
+{
+	width:700px;
+	height:700px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 20px;
+	border-width: 5;
+	box-shadow: 4px 6px 10px red;
+	transform: translate(800px,0px);
+}
+.s
+{
+	text-shadow: 2px 1px red;
+	font-size: 30;
+}
+.d
+{
+	text-align: center;
+	font-weight:bold;
+	border-color: black;
+}
+button:hover
+{
+	cursor: pointer;
+	background-color: red;
+	border-radius: 5px;
+	border-color: black;
+	font-weight: bold;
+}
+.a
+{
+	width:250px;
+	height:480px;
+	transform: translate(-270px,-480px);
+	border-color: black;
+	border-style: solid;
+	border-radius: 20px;
+	border-width: 5;
+	box-shadow: 4px 6px 10px red;
+	font-weight: solid;
+	text-align: center;
+}
+.b
+{
+	width:230px;
+	height:220px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 20px;
+	border-width: 5;
+	box-shadow: 4px 4px 10px red;
+	background-color:;
+	transform:translate(540px,-715px);
+	text-align: center;
+}
+input
+{
+	width:50;
+	border-radius: 10px;
+}
+.r
+{
+	text-shadow: 2px 0.5px red;
+	font-size: 20;
+}
+.x
+{
+	font-size: 20px;
+}
+body
+{
+	background-color:lightskyblue;
+	background-image: url(my9.jpg);
+	background-position: cover;
+}
+.e
+{
+	width:230px;
+	height:220px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 20px;
+	border-width: 5;
+	box-shadow: 4px 4px 10px red;
+	background-color:;
+	transform:translate(250px,-715px);
+	text-align: center;
+}
